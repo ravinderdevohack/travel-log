@@ -4,11 +4,11 @@ A full stack applicaition to store/list place you have travelec.
 
 ### TODO
 
-* [] Setup Server
-  * [] Intall Dependencies
-  * [] Install / Setup Eslint 
-  * [] Setup Express App
-  * [] Setup Not Found and Error Middleware
+* [x] Setup Server
+  * [x] Intall Dependencies
+  * [x] Install / Setup Eslint 
+  * [x] Setup Express App
+  * [x] Setup Not Found and Error Middleware
 
 * [] Model DB
   * what data will we store?
